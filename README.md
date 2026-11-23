@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Carmona! 👋
 
-👨‍💻 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, com forte foco em **desenvolvimento backend**, **ciência e análise de dados** e **arquitetura de software**. Gosto de resolver problemas complexos e construir aplicações escaláveis e eficientes.
+👨‍💻 Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, com forte foco em **desenvolvimento backend**, **ciência e análise de dados** e **arquitetura de software**. Gosto de resolver problemas complexos e construir aplicações escaláveis e eficientes.
 
 🌱 Atualmente, estou aprofundando meus conhecimentos no ecossistema Java (Spring Boot), desenvolvimento em Python e em metodologias ágeis para gestão de projetos.
 
